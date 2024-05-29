@@ -1,8 +1,4 @@
 
-//Pamela Daniel 40286602
-//COMP249
-//Assignment#2
-//Due date: Wednesday March 27th 2024
 package AllExceptions;
 /**
  * This file contains the implementation of the BadNameException class,
